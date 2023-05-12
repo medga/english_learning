@@ -1,4 +1,4 @@
-# parts of speech
+# Parts of Speech
 
 Parts of speech refer to the grammatical categories into which words are classified based on their syntactic functions and roles in sentences. The following are the main parts of speech:
 
