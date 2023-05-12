@@ -1,7 +1,5 @@
 # Adverb
 
-Sure, I'd be happy to describe adverbs for you!
-
 An adverb is a word that modifies or describes a verb, an adjective, or another adverb. Adverbs are used to provide additional information about how, when, where, or to what extent something is happening.
 
 Here are some examples of adverbs:
