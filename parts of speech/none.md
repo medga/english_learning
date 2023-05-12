@@ -4,8 +4,6 @@ A noun is a word that represents a person, place, thing, or idea. It is a part o
 
 Nouns can be classified into different categories based on their characteristics. Common nouns refer to general people, places, or things, while proper nouns refer to specific people, places, or things and are always capitalized. Countable nouns can be counted and have plural forms, while uncountable nouns cannot be counted and do not have plural forms.
 
-Nouns can also have various grammatical roles in a sentence. As the subject of a sentence, a noun performs the action described by the verb. As the object of a verb, a noun receives the action of the verb. As the object of a preposition, a noun shows the relationship between two other words in a sentence.
-
 Examples of nouns include: dog, cat, house, chair, happiness, John, New York, love, and many more.
 
 
